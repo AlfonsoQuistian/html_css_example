@@ -1,8 +1,50 @@
+.blackTop{
+	background-color:black;
+	height:100px;
+	width:100%;
+	margin-bottom:-30px;
+	margin-top:-30px;
+}
+
 #header{
 	color:red;
-	font-size:200%
+	font-size:200%;
 }
 /* Alfonso Quistian*/
 
 p{color:white;
-background:blue;}
+background:#003160;}
+h1{
+	color:white;
+	font-size:30pt;
+	border-radius:0px 0px 20px 0px;
+	background-color:black;
+	text-shadow:5px 2px 4px grey;
+}
+body{
+	background-image:url("https://upload.wikimedia.org/wikipedia/en/6/64/USCupstate-logo.png");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+
+caption{
+	caption-side:top;
+}
+
+table{
+	border-collapse:separate;
+	border-spacing:30px 5px;
+}
+
+a:hover{
+	color:green;
+}
+
+h2{
+	color:white;
+	border:5px solid grey;
+	width:50%;
+	height:50px;
+	min-width:400px;
+	background-image:url("https://upload.wikimedia.org/wikipedia/commons/b/b2/UK_snow_February_2%2C_2009_img008.jpg");
+}
